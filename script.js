@@ -1,0 +1,1 @@
+<!DOCTYPE html>  echo <html><head><title>My Store</title><link rel="stylesheet" href="style.css"></head><body><h1>My E-commerce Store</h1><div id="products"></div><script src="script.js"></script></body></html>  type nul  type nul 
